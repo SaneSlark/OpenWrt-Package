@@ -1,1 +1,1 @@
-# common
+# OpenWrt 更新程序
