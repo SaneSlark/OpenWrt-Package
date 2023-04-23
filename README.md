@@ -1,1 +1,1 @@
-# OpenWrt 更新程序
+OpenWRT 插件包
